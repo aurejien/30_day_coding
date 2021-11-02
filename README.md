@@ -1,18 +1,18 @@
 # 30_day_coding ✅
 
-    ❌ 1 - Caractere counter .py
-    ❌ 2 - Folder organiser .py
-    ❌ 3 - Birthday counter .py
-    ❌ 4 - Comming soon
-    ❌ 5 - Comming soon
-    ❌ 6 - Comming soon
-    ❌ 7 - Comming soon
-    ❌ 8 - Comming soon
-    ❌ 9 - Comming soon
-    ❌ 10 - Comming soon
-    ❌ 11 - Comming soon
-    ❌ 12 - Comming soon
-    ❌ 13 - Comming soon
-    ❌ 14 - Comming soon
-    ❌ 15 - Comming soon
+    ❌ 01 - Caractere counter .py            ❌ 16 - Comming soon
+    ❌ 02 - Folder organiser .py             ❌ 17 - Comming soon
+    ❌ 03 - Birthday counter .py             ❌ 18 - Comming soon
+    ❌ 04 - Comming soon                     ❌ 19 - Comming soon
+    ❌ 05 - Comming soon                     ❌ 20 - Comming soon
+    ❌ 06 - Comming soon                     ❌ 21 - Comming soon
+    ❌ 07 - Comming soon                     ❌ 22 - Comming soon
+    ❌ 08 - Comming soon                     ❌ 23 - Comming soon
+    ❌ 09 - Comming soon                     ❌ 24 - Comming soon
+    ❌ 10 - Comming soon                     ❌ 25 - Comming soon
+    ❌ 11 - Comming soon                     ❌ 26 - Comming soon
+    ❌ 12 - Comming soon                     ❌ 27 - Comming soon
+    ❌ 13 - Comming soon                     ❌ 28 - Comming soon
+    ❌ 14 - Comming soon                     ❌ 29 - Comming soon
+    ❌ 15 - Comming soon                     ❌ 30 - Comming soon
     
