@@ -1,4 +1,4 @@
-# 30_day_coding 
+# 30_days_coding 
 
     ✅ 01 - Caractere counter .py            ❌ 16 - Comming soon
     ❌ 02 - Folder organiser .py             ❌ 17 - Comming soon
