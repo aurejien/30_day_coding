@@ -2,7 +2,7 @@
 
     ✅ 01 - Caractere counter .py            ❌ 16 - Comming soon
     ✅ 02 - Contact organiser .py            ❌ 17 - Comming soon
-    ❌ 03 - Birthday counter .py             ❌ 18 - Comming soon
+    ✅ 03 - Card game generator .py          ❌ 18 - Comming soon
     ❌ 04 - Folder organiser .py             ❌ 19 - Comming soon
     ❌ 05 - Birthday counter .py             ❌ 20 - Comming soon
     ❌ 06 - Comming soon                     ❌ 21 - Comming soon
