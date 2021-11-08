@@ -1,3 +1,10 @@
+"""
+Next update creat new db.json if doen't existe yet.
+
+{}
+
+"""
+
 import json
 
 def reader():
@@ -14,9 +21,6 @@ def writer(dict_db):
 
 
 def new():
-    """
-    Creat a new contact and save it in db.json
-    """
     dict_db = reader()
 
     try:
