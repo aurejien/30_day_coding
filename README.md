@@ -1,3 +1,6 @@
+   My Python coding challenge. :)
+   
+   
     ✅ 01 - Caractere counter .py           ❌ 16 - Comming soon   
     ✅ 02 - Contact organiser .py           ❌ 17 - Comming soon
     ✅ 03 - Card game generator .py         ❌ 18 - Comming soon
